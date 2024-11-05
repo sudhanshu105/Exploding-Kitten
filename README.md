@@ -1,8 +1,14 @@
-# React + Vite
+clone the repo.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+run npm install
 
-Currently, two official plugins are available:
+navigate inside /backend
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+install all the required go dependencies and libraries.
+
+run the server using : go run main.go
+
+navigate to root directory and run the command : npm run dev  (this will run the webapp on your local system)
+
+
+The project live deployment can be found here:  https://exploding-kitten-eight.vercel.app/
